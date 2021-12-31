@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic);
 body {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
@@ -40,6 +41,7 @@ body {
 
 body h1, body h2, body h3, body p {
   text-transform: capitalize;
+  font-family: Roboto;
 }
 
 header {
